@@ -1,0 +1,24 @@
+/*!
+ * Theme Name: Reborn
+ * Theme URI: https://github.com/zce/reborn
+ * Description: wedn.net site theme
+ * Version: 0.1.0
+ * Author: iceStone
+ * Author URI: https://github.com/zce
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: reborn
+ * Tags: blog, one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+ *
+ * This theme, like WordPress, is licensed under the GPL.
+ * Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.page-header {
+	margin: 1rem 0 2rem;
+	border-bottom: 1px solid #e1e7ed;
+}
+
+.admin-bar .site-sidebar {
+	top: 3rem;
+}
